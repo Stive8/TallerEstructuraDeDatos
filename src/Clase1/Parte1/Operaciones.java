@@ -1,7 +1,6 @@
-package Parte1y2;
+package Clase1.Parte1;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class Operaciones {
 

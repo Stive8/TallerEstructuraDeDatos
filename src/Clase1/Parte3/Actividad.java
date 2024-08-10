@@ -1,4 +1,4 @@
-package Parte3;
+package Clase1.Parte3;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

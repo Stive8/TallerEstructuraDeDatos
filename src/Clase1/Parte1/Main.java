@@ -1,6 +1,4 @@
-package Parte1y2;
-
-import java.util.ArrayList;
+package Clase1.Parte1;
 
 public class Main {
 

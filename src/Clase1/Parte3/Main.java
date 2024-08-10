@@ -1,4 +1,4 @@
-package Parte3;
+package Clase1.Parte3;
 
 public class Main {
 
@@ -12,6 +12,6 @@ public class Main {
 
 
         actividades.imprimir();
-        
+
     }
 }
