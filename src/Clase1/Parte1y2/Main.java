@@ -1,4 +1,4 @@
-package Clase1.Parte1;
+package Clase1.Parte1y2;
 
 public class Main {
 
